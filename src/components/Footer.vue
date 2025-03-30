@@ -1,6 +1,6 @@
 <template>
     <footer class="footer">
-      <p>© 2025 Jewelry Store - Trang sức cao cấp</p>
+      <p> Trang sức cao cấp</p>
     </footer>
   </template>
   

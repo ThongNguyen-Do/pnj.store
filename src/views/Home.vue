@@ -1,12 +1,7 @@
 <template>
   <div>
     
-    <section class="hero">
-      <div class="container">
-        <h1>Trang sức sang trọng & đẳng cấp</h1>
-        <p>Khám phá bộ sưu tập mới nhất</p>
-      </div>
-    </section>
+   
     <ProductList />
   </div>
 </template>
